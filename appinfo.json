@@ -3,7 +3,7 @@
     "capabilities": [
         ""
     ],
-    "companyName": "reed@outlook.com",
+    "companyName": "NorseBoar",
     "longName": "Tutorial 1",
     "projectType": "native",
     "resources": {
@@ -16,7 +16,7 @@
         "basalt"
     ],
     "uuid": "3bea68b7-b405-4205-837c-1c5f6e0694a0",
-    "versionLabel": "1.0",
+    "versionLabel": "0.1",
     "watchapp": {
         "watchface": true
     }
